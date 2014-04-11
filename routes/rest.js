@@ -11,5 +11,6 @@ exports.helloWorld = function (req,res) {
 		if(error !== null){
 			console.log('exec error: ' + error);
 		}
+		process.exit();
 	});
 }
