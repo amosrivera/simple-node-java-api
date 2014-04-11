@@ -1,0 +1,9 @@
+{
+	"name": "simple-node-api",
+	"description": "Bootstrap API with Node and Express",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express":"4.x"
+	}
+}
